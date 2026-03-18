@@ -25,7 +25,7 @@ Full paper available upon request.
 - Information Retrieval
 - Healthcare AI
 
-## 👨‍💻 Author
-Tanmay Tyagi
-Khushi Saroha
-Vaishnavi
+## 👨‍💻 Authors
+- Tanmay Tyagi  
+- Khushi Saroha  
+- Vaishnavi  
