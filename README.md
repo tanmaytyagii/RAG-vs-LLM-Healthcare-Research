@@ -14,7 +14,7 @@ This research explores the comparison between Retrieval-Augmented Generation (RA
 - Provides better evidence-grounded outputs
 
 ## 📄 Paper Status
-🚧 Under Review / Unpublished
+🚧 Under Review
 
 Full paper available upon request.
 
