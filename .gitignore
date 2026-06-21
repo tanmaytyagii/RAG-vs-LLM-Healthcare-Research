@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables / secrets
+.env
+.env.local
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Vector store (regenerated from PDFs; large binary artifacts)
+vectorstore/*.faiss
+vectorstore/*.pkl
+
+# Logs
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Large/uploaded source PDFs (keep the directory structure via README.md only)
+data/sample_medical_papers/*.pdf
+
+# Results (generated artifacts; uncomment to track in git if desired)
+# results/metrics.csv
+# results/plots/*.png

@@ -1,0 +1,11 @@
+question,category,reference_answer,relevant_sources
+"What are the early warning signs of sepsis?",emergency_medicine,"fever chills rapid heart rate rapid breathing confusion low blood pressure clammy skin","sepsis_guideline.pdf"
+"What is the first-line treatment for type 2 diabetes?",endocrinology,"metformin lifestyle changes diet exercise weight management blood glucose monitoring","diabetes_management_guideline.pdf"
+"What are the symptoms of community-acquired pneumonia?",pulmonology,"cough fever shortness of breath chest pain fatigue sputum production","pneumonia_clinical_guideline.pdf"
+"How is hypertension diagnosed according to clinical guidelines?",cardiology,"blood pressure measurement above 130 over 80 mmHg on repeated visits ambulatory monitoring","hypertension_guideline.pdf"
+"What are the contraindications for ACE inhibitors?",pharmacology,"pregnancy bilateral renal artery stenosis history of angioedema hyperkalemia","ace_inhibitor_prescribing_information.pdf"
+"What is the recommended screening interval for colorectal cancer?",oncology,"colonoscopy every ten years starting at age forty five average risk patients","colorectal_cancer_screening_guideline.pdf"
+"What are the diagnostic criteria for major depressive disorder?",psychiatry,"depressed mood loss of interest weight change sleep disturbance fatigue concentration difficulty for two weeks","dsm5_depression_criteria.pdf"
+"What is the standard management for acute myocardial infarction?",cardiology,"aspirin nitroglycerin oxygen morphine reperfusion therapy percutaneous coronary intervention","mi_management_guideline.pdf"
+"What are the risk factors for venous thromboembolism?",hematology,"immobility surgery cancer pregnancy obesity prior history of clot oral contraceptives","vte_prevention_guideline.pdf"
+"How should diabetic ketoacidosis be managed in the emergency department?",endocrinology,"intravenous fluids insulin infusion potassium replacement monitor blood glucose and electrolytes","dka_management_protocol.pdf"

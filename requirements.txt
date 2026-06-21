@@ -1,0 +1,33 @@
+# Core
+python-dotenv==1.0.1
+numpy==1.26.4
+pandas==2.2.2
+requests==2.32.3
+
+# LangChain ecosystem (RAG pipeline)
+langchain==0.2.16
+langchain-community==0.2.16
+langchain-text-splitters==0.2.4
+langchain-huggingface==0.0.3
+
+# Embeddings & vector search
+sentence-transformers==3.0.1
+faiss-cpu==1.8.0.post1
+
+# PDF parsing
+pypdf==4.3.1
+
+# Local/remote LLM inference
+# (transformers/torch are only required if MODEL_CONFIG.backend == "local")
+transformers==4.44.2
+torch==2.4.0
+accelerate==0.33.0
+
+# App & visualization
+streamlit==1.38.0
+matplotlib==3.9.2
+plotly==5.24.0
+
+# Notebooks
+jupyter==1.0.0
+ipykernel==6.29.5
